@@ -2,13 +2,13 @@
 <h1 align="center">Hi , I'm Oğuz</h1>
 <h3 align="center">Kali Linux and Python software student</h3>
 
--  I’m currently working on **Kali Linux and Python**
+-  I’m currently working on: **Kali Linux and Python**
 
--  I’m currently learning **Kali Linux**
+-  I’m currently learning: **Kali Linux**
 
--  How to reach me **rootoguz@gmail.com**
+-  How to reach me: **rootoguz@gmail.com**
 
--  Fun fact **babayım**
+-  Fun fact: **babayım**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
