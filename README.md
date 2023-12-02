@@ -1,6 +1,6 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.pinterest.com%2Fpin%2F944207878097229378%2F&psig=AOvVaw2SCiy-759XThmjTcGFk0hO&ust=1701635696602000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDjxY3N8YIDFQAAAAAdAAAAABAE)
+[![MasterHead](http://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.pinterest.com%2Fpin%2F944207878097229378%2F&psig=AOvVaw2SCiy-759XThmjTcGFk0hO&ust=1701635696602000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDjxY3N8YIDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Oğuz</h1>
-<h3 align="center">Kali and Python software student</h3>
+<h3 align="center">Kali Linux and Python software student</h3>
 
 - 🔭 I’m currently working on **Kali Linux and Python**
 
